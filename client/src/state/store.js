@@ -14,7 +14,7 @@ if (process.env.NODE_ENV === 'development') {
     const { composeWithDevTools } = require('redux-devtools-extension');
     store = createStore(reducer, composeWithDevTools());
 } else {
-    store = createStore(reducer, null);
+    store = createStore(reducer);
 }
 
 export default store;
