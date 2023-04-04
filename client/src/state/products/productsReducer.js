@@ -1,6 +1,6 @@
 import {
   UPDATE_PRODUCTS,
-} from './productActions';
+} from './productsActions';
 
 const initialState = {
   products: []
