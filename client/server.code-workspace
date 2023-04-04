@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "server",
+			"path": "../server"
+		},
+		{
+			"name": "client",
+			"path": "."
+		},
+		{
+			"name": "Module-22",
+			"path": "../../../../bootcamp/Module-22"
+		}
+	],
+	"settings": {}
+}
